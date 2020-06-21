@@ -1,0 +1,11 @@
+{
+  "txTimeout": 300000,
+  "skipInit": true,
+  "controllers": [
+    {
+      "name": "sc_participants-cc",
+      "version": "file:./packages/sc_participants-cc",
+      "controller": "Sc_participantsController"
+    }
+  ]
+}

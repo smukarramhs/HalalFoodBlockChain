@@ -1,0 +1,11 @@
+{
+  "txTimeout": 300000,
+  "skipInit": true,
+  "controllers": [
+    {
+      "name": "product-cc",
+      "version": "file:./packages/product-cc",
+      "controller": "ProductController"
+    }
+  ]
+}
